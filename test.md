@@ -5,3 +5,5 @@ wo zai zhe
 master 提交1
 dev 提交1
 master2
+
+Dev2  --- dev master
